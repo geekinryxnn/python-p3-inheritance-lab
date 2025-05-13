@@ -9,3 +9,5 @@ class Student(User):
 
     def learn(self, new_knowledge):
         self.knowledge.append(new_knowledge)
+
+        
